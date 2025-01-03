@@ -1,6 +1,6 @@
 # Dogs vs Cats Classification
 
-## Project Description
+## Description
 This project aims to classify images of dogs and cats using a deep learning model built with TensorFlow. The model is trained on a dataset of images and uses convolutional neural networks (CNNs) to achieve classification. The dataset is provided by Kaggle's Dogs vs. Cats competition.
 
 The project includes dataset preparation, neural network construction, training, and model evaluation. The model is then used for prediction on unseen images, showcasing the power of deep learning in image classification tasks.
