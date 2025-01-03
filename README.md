@@ -36,7 +36,7 @@ The project includes dataset preparation, neural network construction, training,
 ## Repository Organization
 
 ### Dataset Folder Preparation
-1. **Download** the `dogs-vs-cats.zip` file from Kaggle: [Dogs vs Cats Dataset](https://www.kaggle.com/competitions/dogs-vs-cats/data).
+1. **Download** the `dogs-vs-cats.zip` file from Kaggle: [Dogs vs Cats Dataset](https://www.kaggle.com/competitions/dogs-vs-cats/data)
 2. **Unzip** the file and rename the directory as `dogs-vs-cats-original`.
 
 ### Python Implementation - `dogs_cats.py`
