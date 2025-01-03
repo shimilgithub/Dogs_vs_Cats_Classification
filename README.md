@@ -14,7 +14,7 @@ The project includes dataset preparation, neural network construction, training,
 
 ### How it is Implemented:
 1. **Dataset Preparation**:
-   - Download the dataset from Kaggle’s [Dogs vs Cats competition](https://www.kaggle.com/competitions/dogs-vs-cats/data).
+   - Download the dataset from Kaggle’s [Dogs vs Cats competition](https://www.kaggle.com/competitions/dogs-vs-cats/data)
    - Unzip the dataset and rename the directory to `dogs-vs-cats-original`.
    - Organize the dataset into three subsets: training, validation, and test datasets.
 
